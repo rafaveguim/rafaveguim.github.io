@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using John The Ripper in the Research Lab
-date: 2016-01-06 08:00:00
+date: 2016-05-05 22:00:00
 categories: cracking passwords jtr
 ---
 
@@ -228,4 +228,4 @@ Final Thoughts
 
 If you need more information, check [Matt Weir's blog](http://reusablesec.blogspot.ca/)
 and subscribe to _john_'s users [mailing list](http://www.openwall.com/lists/john-users/),
-the folks there were extremely helpful when I needed. Drop me a line if you think I can help in any way. 
+the folks there were extremely helpful when I needed. Drop me a line if you think I can help in any way.
