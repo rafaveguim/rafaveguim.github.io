@@ -2,6 +2,7 @@
 layout: post
 title: Using John The Ripper in the Research Lab
 date: 2016-05-05 22:00:00
+summary: Tips and scripts for getting started with measuring and analyzing guessing attacks with John The Ripper.
 categories: cracking passwords jtr
 ---
 
